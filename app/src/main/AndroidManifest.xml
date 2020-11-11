@@ -51,7 +51,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RegiSter"></activity>
+        <activity android:name=".RegiSter" />
+        <activity android:name=".Main3Activity"></activity>
     </application>
 
 </manifest>
