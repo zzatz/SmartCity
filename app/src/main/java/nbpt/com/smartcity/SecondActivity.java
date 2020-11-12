@@ -111,7 +111,7 @@ public class SecondActivity extends Activity {
                                             editor.clear();
                                         }
                                         // Toast.makeText(SecondActivity.this, "登陆成功!", Toast.LENGTH_LONG).show();
-                                        Intent intent1=new Intent(SecondActivity.this,MenuActivity.class);
+                                        Intent intent1=new Intent(SecondActivity.this,Main3Activity.class);
                                         startActivity(intent1);
                                         finish();
                                     }
